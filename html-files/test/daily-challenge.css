@@ -1,0 +1,48 @@
+body{text-align: center;
+    background-color: rgb(202, 201, 200);
+     margin: 50px;
+    
+}
+
+h1{color: rgb(75, 59, 59);
+    font-weight: bold;
+    font-size: 52px;
+   }
+
+   
+img{width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 5px solid rgb(44, 44, 44);
+    margin-top: -130px;
+
+}
+
+   p{font-family: sans-serif;
+    
+   
+    
+    }
+
+    a{color: chocolate;
+        font-family: "Fira Sans", sans-serif;
+        text-decoration:none ;
+
+    }
+
+    a:hover{text-decoration: underline;
+
+    }
+    main{
+        width: 550px;
+        margin: 150px auto 50px auto;
+        background-color: rgb(219, 108, 94);
+        padding: 24px;
+        border: 5px solid rgb(44, 44, 44);
+        border-radius: 8px;
+        box-shadow: 1px 2px 8px rgba(0 , 0, 0, 0.3) ;
+    }
+    
+    
+    
+     

@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+}
+
+header {
+    margin-bottom: 64px;
+}
+h1{
+   font-size: 48px;
+   color: rgb(71, 62, 62);
+   margin: 12px;
+}
+header p{
+  margin-bottom: 36px;
+}
+a {
+  padding: 12px 48px;
+  background-color: rgb(167, 1, 78);
+  color: white;
+  border: 1px solid rgb(167, 1, 78);
+  border-radius: 4px;
+}
+
+h2{
+  color: rgb(78, 13, 5);
+  font-family: 'oswald',sans-serif;
+}
+main p{
+  margin: 12px;
+  color: rgb(71, 29, 22)
+}
+ol{
+  list-style: none;
+  width: 500px;
+  margin: 36px auto auto;
+  padding: 0;
+}
+ 

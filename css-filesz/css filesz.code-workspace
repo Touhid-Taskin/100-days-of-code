@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../css filesz"
+		},
+		{
+			"path": "../html files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html files"
+	}
+}
